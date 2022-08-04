@@ -1,5 +1,15 @@
 # @example/tailwind-forms
 
+## 0.0.1-next.24
+
+### Patch Changes
+
+- Updated dependencies [[`b2b7e40d`](https://github.com/tw-in-js/twind/commit/b2b7e40d39406b8d04f72cac6c980775e64df6c4)]:
+  - @twind/preset-tailwind@1.0.0-next.39
+  - twind@1.0.0-next.39
+  - @twind/preset-tailwind-forms@1.0.0-next.39
+  - @twind/preset-autoprefix@1.0.0-next.39
+
 ## 0.0.1-next.23
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # twind
 
+## 1.0.0-next.39
+
+### Patch Changes
+
+- feat: support rgb and hsl colors opacity conversion ([#336](https://github.com/tw-in-js/twind/pull/336)) 🙏🏽 [@javascriptjedi](https://github.com/javascriptjedi)!
+
 ## 1.0.0-next.38
 
 ### Patch Changes

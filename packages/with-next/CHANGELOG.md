@@ -1,5 +1,12 @@
 # @twind/with-next
 
+## 1.0.0-next.39
+
+### Patch Changes
+
+- Updated dependencies [[`b2b7e40d`](https://github.com/tw-in-js/twind/commit/b2b7e40d39406b8d04f72cac6c980775e64df6c4)]:
+  - twind@1.0.0-next.39
+
 ## 1.0.0-next.38
 
 ### Patch Changes

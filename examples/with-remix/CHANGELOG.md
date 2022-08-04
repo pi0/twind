@@ -1,5 +1,15 @@
 # @example/with-remix
 
+## 0.0.1-next.9
+
+### Patch Changes
+
+- Updated dependencies [[`b2b7e40d`](https://github.com/tw-in-js/twind/commit/b2b7e40d39406b8d04f72cac6c980775e64df6c4)]:
+  - @twind/preset-tailwind@1.0.0-next.39
+  - twind@1.0.0-next.39
+  - @twind/preset-autoprefix@1.0.0-next.39
+  - @twind/with-remix@1.0.0-next.39
+
 ## 0.0.1-next.8
 
 ### Patch Changes
